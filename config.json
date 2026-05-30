@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercecrypt",
+        "uuid": 10861512,
+        "checksum": "ciww8i"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
